@@ -6,7 +6,7 @@ Connect to WiFi easily using Alfred 3.
 
 ##Download
 
-Get Wireless for Alfred from GitHub
+Get Wireless for Alfred from [GitHub](https://github.com/BlackDragonF/AlfredWorkflows/tree/master/Wireless)
 
 ##Usage
 
