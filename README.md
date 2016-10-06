@@ -4,7 +4,7 @@
 
 ##Introduction
 
-A collection of Alfred workflows that create by myself.
+A collection of Alfred workflows that created by myself.
 
 ##License
 
