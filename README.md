@@ -25,7 +25,7 @@ If something goes wrong, error log will be presented as notification.
 
 ### Meme
 
-Generate animated-GIF mems using APIs provided by 'https://sorry.xuty.tk/sorry/' and copy the meme to clipboard. Download from [GitHub]().
+Generate animated-GIF mems using APIs provided by 'https://sorry.xuty.tk/sorry/' and copy the meme to clipboard. Download from [GitHub](https://github.com/BlackDragonF/AlfredWorkflows/raw/master/Meme/Meme.alfredworkflow).
 
 #### Usage
 
